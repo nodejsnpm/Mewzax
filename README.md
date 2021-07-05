@@ -1,7 +1,7 @@
 ## Hey Guys !
 ```js
 <Quick Introduction>
-Eyyoo! Code addict, with life lessons :).
+Heyyy! I  Code E.V.E.R.Y.D.A.Y :).
 ```
 - 🌱 I’m currently learning everything 🤣
 - 📫 You can reach me VIA my public email or my Discord Server!
@@ -23,7 +23,7 @@ Eyyoo! Code addict, with life lessons :).
 <img align="left" alt="python" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" /> <br />
 
 ### Operating System:
-- <img alt="C#" width="18px" src="https://www.getmyos.com/app_public/files/t/1/2021/06/windows_11_logo_by_getmyos.png" /> Windows 11
+- <img alt="C#" width="18px" src="https://www.getmyos.com/app_public/files/t/1/2021/06/windows_11_logo_by_getmyos.png" /> Windows 10
 
 ---
 <div align="center">
