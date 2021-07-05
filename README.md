@@ -6,6 +6,7 @@ Hey! I learn Code E.V.E.R.Y DAY :).
 - 🌱 I’m currently learning everything 🤣
 - 📫 You can reach me VIA my public email or my Discord Server!
 
+---
 
 ### Languages and Tools:
 
@@ -24,7 +25,7 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 (Reputation) -> [epicnpc.com](https://www.epicnpc.com/members/reconlx.1167846/)<br /> -->
 
 
----
+
 
 
 
