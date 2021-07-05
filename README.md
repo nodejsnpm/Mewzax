@@ -24,11 +24,7 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Things you need to know and change before updating to discord.js version 13.](https://www.youtube.com/watch?v=-Q8SCjaPiDc)
-- [#99 Server Boost Detection System | discord.js tutorials](https://www.youtube.com/watch?v=i39YkKFwhnc)
-- [#98 ALT account detection system | discord.js tutorials](https://www.youtube.com/watch?v=uwm6Bx0bYtE)
-- [#97 Permission Handler | discord.js tutorials](https://www.youtube.com/watch?v=nm63imRM1wE)
-- [Introduction to my youtube channel!](https://www.youtube.com/watch?v=svzmrgt_yHo)
+- [How to have Free Discord Nitro](https://www.youtube.com/watch?v=u3afiQT6HYc&t=7s)
 <!-- YOUTUBE:END -->
 
 ---
