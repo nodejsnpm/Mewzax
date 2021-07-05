@@ -17,12 +17,8 @@ Hey! I learn Code E.V.E.R.Y DAY :).
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 <img align="left" alt="html" width="26px" src="https://i.imgur.com/1VQeKGP.png" />
 <img align="left" alt="css" width="18px" src="https://i.imgur.com/Zsnk6xl.png" />
-
 <<img align="left" alt="mongodb" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />  -->
 
-### Jobs
-Currently coding discord bots for payments. Send me a message on discord to discuss.<br>
-(Reputation) -> [epicnpc.com](https://www.epicnpc.com/members/reconlx.1167846/)<br /> -->
 
 
 
