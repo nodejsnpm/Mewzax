@@ -17,7 +17,7 @@ Hey! I learn Code E.V.E.R.Y DAY :).
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 <img align="left" alt="html" width="26px" src="https://i.imgur.com/1VQeKGP.png" />
 <img align="left" alt="css" width="26px" src="https://i.imgur.com/Zsnk6xl.png" />
-<img align="left" alt="mongodb" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="mongodb" width="20px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" /> <br />
 
 
 ---
