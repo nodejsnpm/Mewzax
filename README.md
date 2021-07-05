@@ -1,4 +1,4 @@
-![welcome]()
+![welcome](https://studio.youtube.com/channel/UCJUF2tLQpXvHQrqjRNmvfYA/editing/images)
 ```js
 <Quick Introduction>
 Eyyoo! Code addict, with life lessons :).
