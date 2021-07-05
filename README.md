@@ -23,6 +23,10 @@ Hey! I learn Code E.V.E.R.Y DAY :).
 Currently coding discord bots for payments. Send me a message on discord to discuss.<br>
 (Reputation) -> [epicnpc.com](https://www.epicnpc.com/members/reconlx.1167846/)<br /> -->
 
+### Operating System:
+- <img alt="C#" width="14px" src="https://i.imgur.com/EjHy8p6.png" /> [Manjaro](https://manjaro.org/) Gnome (Linux)
+- <img alt="C#" width="18px" src="https://www.getmyos.com/app_public/files/t/1/2021/06/windows_11_logo_by_getmyos.png" /> Windows 11
+
 ---
 
 ### 📺 Latest Youtube Videos
