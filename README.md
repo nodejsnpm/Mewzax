@@ -16,11 +16,11 @@ Hey! I learn Code E.V.E.R.Y DAY :).
 <img align="left" alt="py" width="26px" src="https://i.imgur.com/4pIzF9V.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 <img align="left" alt="html" width="26px" src="https://i.imgur.com/1VQeKGP.png" />
-<img align="left" alt="css" width="18px" src="https://i.imgur.com/Zsnk6xl.png" />
+<img align="left" alt="css" width="26px" src="https://i.imgur.com/Zsnk6xl.png" />
 <img align="left" alt="mongodb" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />
 
 
-
+---
 
 ### Operating System:
 - <img alt="C#" width="18px" src="https://www.getmyos.com/app_public/files/t/1/2021/06/windows_11_logo_by_getmyos.png" /> Windows 10
