@@ -4,7 +4,7 @@ Hey! I learn Code E.V.E.R.Y DAY :).
 ```
 
 - 🌱 I’m currently learning everything 🤣
-- If you need help DM me on Discord: noxis#6969
+- 📫 You can reach me VIA my public email or my Discord Server!
 
 
 ### Languages and Tools:
