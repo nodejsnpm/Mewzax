@@ -1,7 +1,7 @@
 ## Hey Guys !
 ```js
 <Quick Introduction>
-Heyyy! I  Code E.V.E.R.Y.D.A.Y :).
+Heyyy! I'm raVenoxis and I Code E.V.E.R.Y.D.A.Y :).
 ```
 - 🌱 I’m currently learning everything 🤣
 - 📫 You can reach me VIA my public email or my Discord Server!
