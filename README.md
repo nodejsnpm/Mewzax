@@ -13,8 +13,9 @@ Hey! I learn Code E.V.E.R.Y DAY :).
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="py" width="26px" src="https://i.imgur.com/4pIzF9V.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
-<img align="left" alt="node.js" width="26px" src="https://camo.githubusercontent.com/b88122ecbe348a9d6debf7ba18240c87e24eb4aa8e0a7481d7fd75c90df10fe9/68747470733a2f2f692e696d6775722e636f6d2f315651654b47502e706e67" /> 
-<img align="left" alt="node.js" width="26px" src="https://camo.githubusercontent.com/e27de252d805ba162c8122a2c7491ba5d7594510f90b057a2fa4786c310dc7f0/68747470733a2f2f692e696d6775722e636f6d2f5a736e6b36786c2e706e67" /> 
+<img align="left" alt="css" width="26px" src="https://camo.githubusercontent.com/e27de252d805ba162c8122a2c7491ba5d7594510f90b057a2fa4786c310dc7f0/68747470733a2f2f692e696d6775722e636f6d2f5a736e6b36786c2e706e67" /> 
+<img align="left" alt="html" width="26px" src="https://camo.githubusercontent.com/b88122ecbe348a9d6debf7ba18240c87e24eb4aa8e0a7481d7fd75c90df10fe9/68747470733a2f2f692e696d6775722e636f6d2f315651654b47502e706e67" /> 
+
 <!-- <img align="left" alt="mongodb" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />  -->
 
 <!-- ### Jobs
