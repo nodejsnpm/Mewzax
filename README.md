@@ -27,7 +27,7 @@ Heyyy! I'm raVenoxis and I Code E.V.E.R.Y.D.A.Y :).
 
 ---
 <div align="center">
-  <a href="https://discord.gg/VCBqtEnNRy" target="_blank">
+  <a href="https://discord.gg/XBtW5AqfGM" target="_blank">
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
   </a>
   <a href="https://www.youtube.com/channel/UCJUF2tLQpXvHQrqjRNmvfYA" target="_blank">
