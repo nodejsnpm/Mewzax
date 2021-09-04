@@ -1,10 +1,10 @@
 ## Hey Guys !
 ```js
 <Quick Introduction>
-Heyyy! I'm raVenoxis and I Code E.V.E.R.Y.D.A.Y :).
+Heyyy! I'm raVenoxis and I Code Discord Things :).
 ```
 - 🌱 I’m currently learning everything 🤣
-- 📫 You can reach me VIA my public email or my Discord Server!
+- 📫 You can reach me VIA my public email or my Discord!
 - 😮 You can call me noxis or raVenoxis!
 - ⚡ Trying my best to be a good developer 🤞
 
@@ -27,7 +27,7 @@ Heyyy! I'm raVenoxis and I Code E.V.E.R.Y.D.A.Y :).
 
 ---
 <div align="center">
-  <a href="https://discord.gg/XBtW5AqfGM" target="_blank">
+  <a href="discord.com/users/878434095422640189" target="_blank">
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
   </a>
   <a href="https://www.youtube.com/channel/UCJUF2tLQpXvHQrqjRNmvfYA" target="_blank">
