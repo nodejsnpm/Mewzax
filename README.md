@@ -6,8 +6,29 @@
 ## Hello 👋
 If you enjoy my projects, follow me !
 
+- 📫 You can reach me VIA my public email or my Discord!
+- 😮 You can call me noxis or raVenoxis!
+- ⚡ Trying my best to become a good developer 🤞
+<p><p>
+  
+ ---
+
 ### About Me 📌
 ![Metrics](https://metrics.lecoq.io/raVenoxis?template=classic&repositories.forks=true&base.header=0&languages=1&people=1&lines=1&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.thanks=%20Sebbl0508%20&people.identicons=false&people.shuffle=false&config.timezone=Europe%2FCopenhagen)
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
+<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="html" width="26px" src="https://i.imgur.com/1VQeKGP.png" />
+<img align="left" alt="css" width="18px" src="https://i.imgur.com/Zsnk6xl.png" />
+<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
+<img align="left" alt="python" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
+
+### Operating Systems:
+- <img alt="C#" width="18px" src="https://www.getmyos.com/app_public/files/t/1/2021/06/windows_11_logo_by_getmyos.png" /> Windows 10
+
 
 <div align="center">
   <a href="https://www.discord.com/users/878434095422640189" target="_blank">
