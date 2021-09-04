@@ -26,6 +26,8 @@ If you enjoy my projects, follow me !
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
 <img align="left" alt="python" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 
+  ---
+  
 ### Operating Systems:
 - <img alt="C#" width="18px" src="https://www.getmyos.com/app_public/files/t/1/2021/06/windows_11_logo_by_getmyos.png" /> Windows 10
 
