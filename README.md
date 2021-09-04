@@ -28,7 +28,7 @@ If you enjoy my projects, follow me !
 
   
 ### Operating Systems:
-- <img alt="C#" width="18px" src="https://www.getmyos.com/app_public/files/t/1/2021/06/windows_11_logo_by_getmyos.png" /> Windows 10
+ <img alt="C#" width="18px" src="https://www.getmyos.com/app_public/files/t/1/2021/06/windows_11_logo_by_getmyos.png" /> Windows 10
 
   ---
 
