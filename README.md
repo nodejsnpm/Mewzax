@@ -3,7 +3,6 @@
 <img alt="" src=https://komarev.com/ghpvc/?username=raVenoxis />
 </p>
 
-<img src="https://discordapp.com/api/guilds/887389942546854011/widget.png?style=banner1" alt="Discord Banner 1"/>
 
 ## Hello 👋
 If you enjoy my projects, follow me !
