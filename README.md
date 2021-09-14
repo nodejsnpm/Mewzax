@@ -3,6 +3,8 @@
 <img alt="" src=https://komarev.com/ghpvc/?username=raVenoxis />
 </p>
 
+![Discord Banner](https://discordapp.com/api/guilds/887389942546854011/widget.png?style=banner2)
+
 ## Hello 👋
 If you enjoy my projects, follow me !
 
@@ -41,5 +43,3 @@ If you enjoy my projects, follow me !
     <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="YouTube Channel" width="80"/>
   </a>
 </div>
-
-<img src="https://discord.com/widget?id=887389942546854011&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></img>
