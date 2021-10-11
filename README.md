@@ -3,6 +3,7 @@
 <img alt="" src=https://komarev.com/ghpvc/?username=slowwdev />
 </p>
 
+<img alt="" src=https://github.com/slowwdev/slowwdev/blob/main/assets/a_59b5fde694be266ae5fad88aa80f4cb8.gif />
 
 ## Hello 👋
 If you enjoy my projects, follow me !
