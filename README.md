@@ -3,7 +3,9 @@
 <img alt="" src=https://komarev.com/ghpvc/?username=slowwdev />
 </p>
 
+<p align="center">
 <img alt="" src=https://github.com/slowwdev/slowwdev/blob/main/assets/a_59b5fde694be266ae5fad88aa80f4cb8.gif />
+</p>
 
 ## Hello 👋
 If you enjoy my projects, follow me !
