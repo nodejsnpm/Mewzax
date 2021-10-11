@@ -11,7 +11,7 @@
 If you enjoy my projects, follow me !
 
 - 📫 You can reach me VIA my public email or my Discord!
-- 😮 You can call me noxis or raVenoxis!
+- 😮 Currently working on Discors Bots
 - ⚡ Trying my best to become a good developer 🤞
 <p><p>
   
