@@ -1,4 +1,3 @@
-<center>
 <p align="center">
 <img alt="" src=https://img.shields.io/github/stars/slowwdev?affiliations=OWNER%2CCOLLABORATOR />
 <img alt="" src=https://komarev.com/ghpvc/?username=slowwdev />
@@ -55,4 +54,3 @@ If you enjoy my projects, follow me !
     <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="YouTube Channel" width="80"/>
   </a>
 </div>
-</center>
