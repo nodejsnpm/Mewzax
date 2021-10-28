@@ -11,7 +11,7 @@
 If you enjoy my projects, follow me !
 
 - 📫 You can reach me VIA my public email or my [Discord](discord.com/users/878434095422640189)!
-- 😮 Currently working on Discors Bots
+- 😮 Currently working on Discord Bots
 - ⚡ Trying my best to become a good developer 🤞
 <p><p>
   
