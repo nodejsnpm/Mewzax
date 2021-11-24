@@ -7,7 +7,7 @@
 <img alt="" src=https://github.com/slowwdev/slowwdev/blob/main/assets/a_59b5fde694be266ae5fad88aa80f4cb8.gif />
 </p>
 
-[![](https://discord.c99.nl/widget/theme-4/878434095422640189.png)
+![](https://discord.c99.nl/widget/theme-4/878434095422640189.png)
 
 ## Hello 👋
 If you enjoy my projects, follow me !
