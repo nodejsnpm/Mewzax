@@ -8,7 +8,7 @@
 
 
 ![](https://discord.c99.nl/widget/theme-4/878434095422640189.png)
-</p>
+
 ## Hello 👋
 If you enjoy my projects, follow me !
 
