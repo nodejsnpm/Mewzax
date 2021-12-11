@@ -1,8 +1,10 @@
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm slow</h2>
+
 <p align="center">
-<img alt="" src=https://img.shields.io/github/stars/slowwdev?affiliations=OWNER%2CCOLLABORATOR />
-<img alt="" src=https://komarev.com/ghpvc/?username=slowwdev />
+    <img alt="" src=https://img.shields.io/github/stars/slowwdev?affiliations=OWNER%2CCOLLABORATOR />
+    <img alt="" src=https://komarev.com/ghpvc/?username=slowwdev />
 </p>
+
 <img src="assets/2eeb56eceac8c5210ec6caa5f9af204c06239570_s2_n1.jpg" alt="slow">
 
 ### Hey Gaymers
@@ -15,6 +17,7 @@ func main() {
     fmt.Println("lol")
 }
 ```
+
 <ul>
   <li> 📝 I’m currently working on Discord Bots</li>
   <li> 💌 Contact me with my mail or my <a href="https://www.discord.com/users/878434095422640189">Discord</a></li>
@@ -31,8 +34,7 @@ func main() {
 <br>
 <br>
 <img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://www.discord.com/users/878434095422640189)
-
-
+<br>
 
 ### Languages and Tools:
 
