@@ -6,6 +6,15 @@
 <img src="assets/2eeb56eceac8c5210ec6caa5f9af204c06239570_s2_n1.jpg" alt="slow">
 
 ### Hey Gaymers
+```go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("lol")
+}
+```
 <ul>
   <li> 📝 I’m currently working on Discord Bots</li>
   <li> 💌 Contact me with my mail or my <a href="https://www.discord.com/users/878434095422640189">Discord</a></li>
