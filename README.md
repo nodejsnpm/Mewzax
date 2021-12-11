@@ -21,6 +21,8 @@ func main() {
   <li> 💻 I code on <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a></li>
 </ul>
 
+<img align="right" src="https://lanyard-profile-readme.vercel.app/api/878434095422640189"/>
+
 ### Connect with me:
 <img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />[Youtube](https://www.youtube.com/channel/UCN3a0d0UhcDblMfaQM2rqdA)
 <br>
@@ -29,6 +31,8 @@ func main() {
 <br>
 <br>
 <img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://www.discord.com/users/878434095422640189)
+
+
 
 ### Languages and Tools:
 
