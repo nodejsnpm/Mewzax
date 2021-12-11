@@ -98,5 +98,12 @@ func main() {
 | ------------- |:-------------:|:--------------:|
 | Selfbot-RPC      | [project](https://github.com/slowwdev/Discord-Selfbot-RPC) | A multi-features Discord RPC. |
 
+<br>
+
+<!-- JOKE -->
+### A joke lol:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+### Thanks for reading!
 <!-- GO-END -->
 <img src="https://github.com/rfyiamcool/golang_logo/blob/master/jpg/golang_6.jpeg?raw=true">
