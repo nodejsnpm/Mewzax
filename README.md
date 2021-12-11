@@ -98,8 +98,6 @@ func main() {
 | ------------- |:-------------:|:--------------:|
 | Selfbot-RPC      | [project](https://github.com/slowwdev/Discord-Selfbot-RPC) | A multi-features Discord RPC. |
 
-<br>
-
 <!-- JOKE -->
 ### A joke lol:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
