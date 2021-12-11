@@ -80,3 +80,10 @@ func main() {
 
   
 </h2>
+
+# My projects
+| Project        | URL           | Description |
+| ------------- |:-------------:|:--------------:|
+| Selfbot-RPC      | [project](https://github.com/slowwdev/Discord-Selfbot-RPC) | A multi-features Discord RPC. |
+
+<img src="https://github.com/rfyiamcool/golang_logo/blob/master/jpg/golang_6.jpeg?raw=true">
