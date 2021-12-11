@@ -83,6 +83,13 @@ func main() {
   <img src="https://activity-graph.herokuapp.com/graph?username=slowwdev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/slowwdev/slowwdev/output/github-contribution-grid-snake.svg" alt="snek"></center>
+</p>
+
 <!-- SPOTIFY -->
 <h2 align="center">Now Playing On Spotify 🎧
 <br>
