@@ -99,8 +99,11 @@ func main() {
 | Selfbot-RPC      | [project](https://github.com/slowwdev/Discord-Selfbot-RPC) | A multi-features Discord RPC. |
 
 <!-- JOKE -->
-### A joke lol:
+### A joke lol
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+### End typing
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=It+was+funny+no+%3F;Do+you+starred+my+repos+%3F;Lol)](https://git.io/typing-svg)
 
 ### Thanks for reading!
 <!-- GO-END -->
