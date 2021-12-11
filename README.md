@@ -35,7 +35,7 @@
 ### Operating System:
  <img alt="C#" width="18px" src="https://www.getmyos.com/app_public/files/t/1/2021/06/windows_11_logo_by_getmyos.png" /> Windows 10
  
-### Statistics
+### Statistics:
 <br>
 <p align=center>
   <div align=center>
