@@ -81,7 +81,7 @@ func main() {
   
 </h2>
 
-# My projects
+### My projects
 | Project        | URL           | Description |
 | ------------- |:-------------:|:--------------:|
 | Selfbot-RPC      | [project](https://github.com/slowwdev/Discord-Selfbot-RPC) | A multi-features Discord RPC. |
