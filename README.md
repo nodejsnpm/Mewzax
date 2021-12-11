@@ -11,7 +11,8 @@
 <img src="assets/2eeb56eceac8c5210ec6caa5f9af204c06239570_s2_n1.jpg" alt="slow">
 
 <!-- -----ABOUT ME----- -->
-### Hey Gaymers
+### Hey Gaymers!
+
 <!-- GO CODE -->
 ```go
 package main
@@ -24,6 +25,7 @@ func main() {
 ```
 <!-- COOL FACTS -->
 <ul>
+  <li> ☄️ I'm slow and I'm <img src="https://awesome.re/badge.svg" width="100"/></li>
   <li> 📝 I’m currently working on Discord Bots</li>
   <li> 💌 Contact me with my mail or my <a href="https://www.discord.com/users/878434095422640189">Discord</a></li>
   <li> 💻 I code on <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a></li>
