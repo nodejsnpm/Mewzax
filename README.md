@@ -61,8 +61,9 @@ func main() {
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" /> <br> <br>
   
 <!-- SYSTEM -->
-### Operating System:
- <img alt="C#" width="18px" src="https://www.getmyos.com/app_public/files/t/1/2021/06/windows_11_logo_by_getmyos.png" /> Windows 10
+### Operating Systems:
+ <img alt="C#" width="18px" src="https://www.getmyos.com/upload/files/2018/09/17/windows-logo_1_926ed76111646acbbe332bc5af0cf2ce.png" /> Windows 10 <br> <br>
+ <img alt="kali" width="18px" src="https://www.getmyos.com/upload/files/2018/12/02/kali-linux-logo-icon-min_1_c33e112a463036963eb88e0bc04ad2e4.png" /> Kali Linux
  
 <!-- STATS -->
 ### Statistics:
