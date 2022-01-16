@@ -25,7 +25,7 @@ func main() {
 ```
 <!-- COOL FACTS -->
 <ul>
-  <li> ☄️ I'm Mew and I'm <img src="https://awesome.re/badge.svg" width="100"/></li>
+  <li> ☄️ I'm slow (you can call me Mew) and I'm <img src="https://awesome.re/badge.svg" width="100"/></li>
   <li> 📝 I’m currently working on Discord Bots</li>
   <li> 💌 Contact me with my mail or my <a href="https://www.discord.com/users/891344408644050954">Discord</a></li>
   <li> 💻 I code on <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a></li>
