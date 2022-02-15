@@ -107,7 +107,7 @@ func main() {
 ### My projects
 | Project        | URL           | Description |
 | ------------- |:-------------:|:--------------:|
-| Selfbot-RPC      | [project](https://github.com/Mewzax/Discord-Selfbot-RPC) | A multi-features Discord RPC. |
+| Discord-RPC-Selfbot      | [project](https://github.com/Mewzax/Discord-RPC-Selfbot/) | A multi-features Discord RPC. |
 | Nitro-Generator-And-Claimer      | [project](https://github.com/Mewzax/Nitro-Generator-And-Claimer) | A Nitro Generator and claimer in python |
 
 <!-- JOKE -->
