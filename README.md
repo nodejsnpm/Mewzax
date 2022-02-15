@@ -27,7 +27,7 @@ func main() {
 <ul>
   <li> ☄️ I'm slow (you can call me Mew) and I'm <img src="https://awesome.re/badge.svg" width="100"/></li>
   <li> 📝 I’m currently working on Discord Bots</li>
-  <li> 💌 Contact me with my mail or my <a href="https://www.discord.com/users/891344408644050954">Discord</a></li>
+  <li> 💌 Contact me with my mail or my <a href="https://discord.gg/9ESdFerV">Discord</a></li>
   <li> 💻 I code on <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a></li>
 </ul>
 
@@ -45,7 +45,7 @@ func main() {
 <img align="left" alt="twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />[Twitch](https://www.twitch.tv/Mewziak)
 <br>
 <br>
-<img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://www.discord.com/users/878434095422640189)
+<img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://discord.gg/9ESdFerV)
 
 
 <!-- LANGUAGE AND TOOLS -->
