@@ -103,13 +103,6 @@ func main() {
 
 </h2>
 
-<!-- REPOS -->
-### My projects
-| Project        | URL           | Description |
-| ------------- |:-------------:|:--------------:|
-| Discord-RPC-Selfbot      | [project](https://github.com/Mewzax/Discord-RPC-Selfbot/) | A multi-features Discord RPC. |
-| Nitro-Generator-And-Claimer      | [project](https://github.com/Mewzax/Nitro-Generator-And-Claimer) | A Nitro Generator and claimer in python |
-
 <!-- JOKE -->
 ### A joke lol
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
@@ -120,3 +113,5 @@ func main() {
 ### Thanks for reading!
 <!-- GO-END -->
 <img src="https://github.com/rfyiamcool/golang_logo/blob/master/jpg/golang_6.jpeg?raw=true">
+
+(you can find my repos below)
