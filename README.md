@@ -3,8 +3,8 @@
 
 <!-- BUTTONS -->
 <p align="center">
-    <img alt="" src=https://img.shields.io/github/stars/Mewzax?affiliations=OWNER%2CCOLLABORATOR />
-    <img alt="" src=https://komarev.com/ghpvc/?username=Mewzax />
+    <img alt="" src=https://img.shields.io/github/stars/Mewzax?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
+    <img alt="" src=https://komarev.com/ghpvc/?username=Mewzax&style=for-the-badge />
 </p>
 
 <!-- BANNER -->
