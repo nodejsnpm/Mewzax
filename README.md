@@ -1,5 +1,5 @@
 <!-- TITLE -->
-<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mew</h2>
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <a href="https://solo.to/mewzax">Mew</a></h2>
 
 <!-- BUTTONS -->
 <p align="center">
