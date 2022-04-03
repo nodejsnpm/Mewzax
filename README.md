@@ -35,7 +35,7 @@ func main() {
 <!-- SOCIALS -->
 ### Connect with me:
 
-<img align="right" src="https://lanyard-profile-readme.vercel.app/api/891344408644050954"/>
+<img align="right" src="https://lanyard-profile-readme.vercel.app/api/958141688214343770"/>
 
 <a href='https://ko-fi.com/mewdev' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
     
@@ -45,7 +45,7 @@ func main() {
 <img align="left" alt="twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />[Twitch](https://www.twitch.tv/Mewziak)
 <br>
 <br>
-<img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://discord.gg/9ESdFerV)
+<img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://discord.gg/Xwm2vuXK)
 
 
 <!-- LANGUAGE AND TOOLS -->
