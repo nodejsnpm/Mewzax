@@ -27,7 +27,7 @@ func main() {
 <ul>
   <li> ☄️ I'm slow (you can call me Mew) and I'm <img src="https://awesome.re/badge.svg" width="100"/></li>
   <li> 📝 I’m currently working on Discord Bots</li>
-  <li> 💌 Contact me with my mail or my <a href="https://discord.gg/9ESdFerV">Discord</a></li>
+  <li> 💌 Contact me with my mail or my <a href="https://discord.gg/3SPchywXuq">Discord</a></li>
   <li> 💻 I code on <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a></li>
 </ul>
 
