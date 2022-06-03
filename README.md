@@ -61,4 +61,5 @@ func main() {
 
 ### 📊 Stats For Nerds
 
-![](https://komarev.com/ghpvc/?username=Mewzax&color=blue)
+![](https://komarev.com/ghpvc/?username=Mewzax&color=blue&style=for-the-badge)
+![](https://img.shields.io/github/stars/Mewzax?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR)
