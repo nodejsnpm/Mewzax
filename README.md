@@ -52,6 +52,8 @@ func main() {
 
 ![Discordo](https://lanyard-profile-readme.vercel.app/api/958141688214343770)
 
+### 🎸 Recently Played
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fkjtcumrwpc5sefz2su2ulm2yy&count=1)
 
 
