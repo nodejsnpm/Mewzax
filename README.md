@@ -50,6 +50,7 @@ func main() {
 
 ### ⛔ My Status
 
+
 ![Discordo](https://lanyard-profile-readme.vercel.app/api/958141688214343770)
 
 ### 🎸 Recently Played
