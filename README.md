@@ -2,7 +2,7 @@
 
 
 ## Welcome to my Github <img src="https://user-images.githubusercontent.com/75091300/171720051-a0cd300d-3d13-4d3b-9b7c-58db14021003.gif" height="40px" width="40px">
-<a href="https://discord.gg/3SPchywXuq"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+<a href="https://discord.com/users/958141688214343770"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 
 ```go
 package main
